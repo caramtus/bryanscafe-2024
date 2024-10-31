@@ -55,7 +55,7 @@
   text-align: center;
 }
 .bg-hero {
-  background-image: url("/img/hero-banner.png");
+  background-image: url("img/hero-banner.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
